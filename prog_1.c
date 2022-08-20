@@ -1,5 +1,12 @@
 
-/*Write a program to calculate the length of the string*/
+/*Write a program to calculate the length of the string
+  1.input: NARENDRA
+    output: 8
+  2.input: Narendra Patel
+    output: 14
+    
+  note:: also count the space
+  */
 #include <stdio.h>
 
 int main()
